@@ -11,11 +11,11 @@ SCALE = 20
 WORDS = ["love you", "Love You", "LOVE YOU"]
 CENTER_TEXT = " Love You "
 COLORS = [
-    (70, 130, 180),
-    (30, 144, 255),  
-    (0, 191, 255),  
-    (100, 149, 237), 
-    (65, 105, 225)
+    (255, 105, 180),  # hot pink
+    (255, 20, 147),   # deep pink
+    (255, 182, 193),  # light pink
+    (199, 21, 133),   # medium violet red
+    (219, 112, 147)   # pale violet red
     ]
 
 
